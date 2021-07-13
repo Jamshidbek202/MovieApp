@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movies">Movies</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_a_movie">Add a Movie:</string>
+    <string name="title">Title:</string>
+    <string name="about">About:</string>
+    <string name="date">Date:</string>
+    <string name="save">Save</string>
+    <string name="authors">Authors:</string>
+    <string name="edit_a_movie">Edit your movie:</string>
+</resources>
